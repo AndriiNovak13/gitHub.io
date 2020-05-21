@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="60" viewBox="0 0 210 60">
+  <g id="Download_on_the_AppStore" data-name="Download on the AppStore" transform="translate(-695 -4959)">
+    <rect id="Button" width="210" height="60" rx="30" transform="translate(695 4959)" fill="#131315"/>
+    <text id="Download_on_the_App_Store" data-name="Download on the
+App Store" transform="translate(765.142 4981.262)" fill="#fff" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Download on the</tspan><tspan font-size="23"><tspan x="0" y="24.835">App Store</tspan></tspan></text>
+    <path id="Apple_Logo" data-name="Apple Logo" d="M739.829,4979.26c3.267,0,5.355,3.138,5.355,3.138a6.481,6.481,0,0,0-3.186,5.445,6.048,6.048,0,0,0,4,5.712s-3.16,7.443-6.708,7.443c-1.995,0-2.129-1.14-4.78-1.14-2.3,0-3.079,1.14-4.833,1.14-3.347,0-7.672-7.254-7.672-13.155,0-6.129,4.378-8.583,7.123-8.583,2.41,0,3.414,1.409,5.355,1.409C736.12,4980.668,737.406,4979.26,739.829,4979.26Zm-.562-6.249c.482,3-2.263,6.719-5.543,6.6C733.242,4975.787,736.776,4973.211,739.267,4973.011Z" fill="#fff"/>
+  </g>
+</svg>
